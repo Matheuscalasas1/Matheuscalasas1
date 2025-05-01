@@ -11,18 +11,15 @@
 ### Tecnologias que já tive experiências
 
 <div style="display: inline_block"><br/>
-  <img alignt="center" alt="html5" src="![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)" />
-   <img alignt="center" alt="html5" src="![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)" />
-   <img alignt="center" alt="html5" src="![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" />
-     <img alignt="center" alt="html5" src="![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)" />
-      <img alignt="center" alt="html5" src="![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" />
-       <img alignt="center" alt="html5" src="![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)" />
-</div>
+  <img alignt="center" alt="" src="![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)" />
+   <img alignt="center" alt="" src="![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)" />
+   <img alignt="center" alt="" src="![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" />
+     <img alignt="center" alt="" src="![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)" />
+      <img alignt="center" alt="" src="![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" />
+       <img alignt="center" alt="" src="![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)" />
+</div><br>
+
+Apaixonado por tecnologia, sempre em busca de aprendizado e conhecimento
 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
