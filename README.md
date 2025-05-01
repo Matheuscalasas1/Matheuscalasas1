@@ -26,7 +26,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="25" alt="python logo" />
 <img widht="8" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="25" alt="c# logo"/>
+<img widht="8" />
 
 
 #
