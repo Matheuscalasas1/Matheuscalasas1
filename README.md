@@ -26,6 +26,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/c#-original.svg" height="25" alt="c# logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/python-original.svg" height="25" alt="python logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="25" alt" />
 </div>
 
 #
