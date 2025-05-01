@@ -24,6 +24,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="25" alt=".net logo"/>
 <img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="25" alt="python logo" />
+<img widht="8" />
 
 
 
