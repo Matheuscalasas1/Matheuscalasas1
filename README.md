@@ -28,6 +28,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <img widht="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="25" alt="c# logo"/>
 <img widht="8" />
+<img srrc="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" height ="25" alt"Java logo" />
+<img widht="8"/>
 
 
 #
