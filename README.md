@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=SemiBold+600&weight=600&duration=3000&pause=100&color=FF0000&center=true&multiline=true&repeat=false&width=435&lines=Ol%C3%A1%2C+Me+Chamo+Matheus!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&weight=600&duration=1000&pause=2000&color=FF0000&center=true&multiline=true&width=435&lines=%F0%9F%A4%96+Ol%C3%A1%2C+Me+Chamo+Matheus!+%F0%9F%A4%96" alt="Typing SVG" /></a>
 
 <h4> Atualmente estudante de Análise e Desenvolvimento de Sistemas, minhas principais experiências são com HTML, CSS e Python, porém, com estudos a parte focados na linguagem Java. Busco sempre estudar e estar atualizado na área da tecnologia, gosto de aprender cada vez mais para, além de ampliar meus conhecimentos, poder compartilhá-los para a construção de projetos e soluções inovadoras! </h4>
 
