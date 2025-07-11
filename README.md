@@ -38,8 +38,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <h3>* GitHub Stats *</h3>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscalasas1&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheuscalasas1&theme=shadow_red&show_icons=true
-">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheuscalasas1&theme=shadow_red&show_icons=true">
 </a>
 </div>
 
