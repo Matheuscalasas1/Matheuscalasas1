@@ -1,66 +1,58 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          background: #0d1117;
-          width: 800px;
-          height: 400px;
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-          justify-content: center;
-          font-family: sans-serif;
-          color: white;
-          position: relative;
-          overflow: hidden;
-        }
-        .orbit {
-          position: absolute;
-          border: 1px solid rgba(255, 255, 255, 0.08);
-          border-radius: 50%;
-          transform: rotateX(75deg);
-        }
-        .node {
-          position: absolute;
-          padding: 6px 12px;
-          background: rgba(0, 0, 0, 0.7);
-          border: 1px solid;
-          border-radius: 20px;
-          font-size: 13px;
-          font-weight: bold;
-          animation: float 3s infinite ease-in-out;
-        }
-        @keyframes float {
-          0%, 100% { transform: translateY(0); }
-          50% { transform: translateY(-8px); }
-        }
-        .center {
-          z-index: 10;
-          text-align: center;
-          animation: pulse 2s infinite alternate;
-        }
-        @keyframes pulse {
-          from { filter: drop-shadow(0 0 10px #FF00F6); }
-          to { filter: drop-shadow(0 0 25px #FF00F6); }
-        }
-      </style>
-      <div class="container">
-        <div class="orbit" style="width: 450px; height: 450px;"></div>
-        <div class="orbit" style="width: 650px; height: 650px;"></div>
+<svg viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .base { font-family: 'Segoe UI', Roboto, sans-serif; fill: #fff; }
+    .title { font-size: 24px; font-weight: 600; letter-spacing: 2px; }
+    .subtitle { font-size: 14px; fill: #8b949e; }
+    .orbit { stroke: rgba(255, 255, 255, 0.15); stroke-width: 1; }
+    .node-text { font-size: 12px; font-weight: 500; }
+    .pulse { animation: pulse-dot 2s infinite; }
+    @keyframes pulse-dot {
+      0% { opacity: 0.4; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.3); }
+      100% { opacity: 0.4; transform: scale(1); }
+    }
+    .float { animation: floating 3s infinite ease-in-out; }
+    @keyframes floating {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-5px); }
+    }
+  </style>
 
-        <div class="center">
-          <h1 style="margin:0; font-size: 32px; color: #FF00F6;">Matheus Calasas</h1>
-          <p style="margin:5px 0; color: #8b949e;">Future Back-end Developer</p>
-        </div>
+  <rect width="800" height="450" fill="#0d1117" />
 
-        <div class="node" style="top: 120px; left: 150px; color: #f7df1e; animation-delay: 0s;">JavaScript</div>
-        <div class="node" style="top: 80px; left: 520px; color: #007396; animation-delay: 1s;">Java</div>
-        <div class="node" style="top: 280px; left: 200px; color: #e34c26; animation-delay: 0.5s;">HTML5</div>
-        <div class="node" style="top: 310px; left: 500px; color: #3776ab; animation-delay: 1.5s;">Python</div>
-        <div class="node" style="top: 180px; left: 620px; color: #264de4; animation-delay: 0.8s;">CSS3</div>
-        <div class="node" style="top: 220px; left: 50px; color: #A8B9CC; animation-delay: 1.2s;">C Language</div>
-      </div>
-    </div>
-  </foreignObject>
+  <circle cx="100" cy="50" r="1" fill="white" opacity="0.3" />
+  <circle cx="700" cy="350" r="1.5" fill="white" opacity="0.5" />
+  <circle cx="400" cy="80" r="1" fill="white" opacity="0.2" />
+
+  <ellipse cx="400" cy="225" rx="150" ry="60" class="orbit" transform="rotate(-15 400 225)" />
+  <ellipse cx="400" cy="225" rx="250" ry="100" class="orbit" transform="rotate(-15 400 225)" />
+  <ellipse cx="400" cy="225" rx="350" ry="140" class="orbit" transform="rotate(-15 400 225)" />
+
+  <g class="float">
+    <circle cx="400" cy="225" r="30" fill="#FF00F6" opacity="0.2" />
+    <circle cx="400" cy="225" r="20" fill="#FF00F6" />
+    <text x="400" y="233" text-anchor="middle" class="base" style="font-size: 20px; font-weight: bold;">M</text>
+  </g>
+
+  <text x="400" y="50" text-anchor="middle" class="base title">Matheus Calasas</text>
+  <text x="400" y="75" text-anchor="middle" class="base subtitle">Software Developer Student</text>
+
+  <g class="pulse">
+    <circle cx="300" cy="185" r="4" fill="#f7df1e" /> <circle cx="500" cy="265" r="4" fill="#007396" /> </g>
+  <text x="290" y="180" text-anchor="end" class="base node-text" fill="#f7df1e">JavaScript</text>
+  <text x="510" y="280" text-anchor="start" class="base node-text" fill="#007396">Java</text>
+
+  <circle cx="200" cy="200" r="4" fill="#e34c26" />
+  <text x="190" y="200" text-anchor="end" class="base node-text" fill="#e34c26">HTML5</text>
+  
+  <circle cx="600" cy="250" r="4" fill="#3776ab" />
+  <text x="610" y="255" text-anchor="start" class="base node-text" fill="#3776ab">Python</text>
+
+  <circle cx="150" cy="300" r="4" fill="#264de4" />
+  <text x="140" y="315" text-anchor="end" class="base node-text" fill="#264de4">CSS3</text>
+
+  <circle cx="650" cy="150" r="4" fill="#A8B9CC" />
+  <text x="660" y="145" text-anchor="start" class="base node-text" fill="#A8B9CC">C Language</text>
+
+  <text x="400" y="400" text-anchor="middle" class="base subtitle" style="font-style: italic;">"Transforming curiosity into code."</text>
 </svg>
