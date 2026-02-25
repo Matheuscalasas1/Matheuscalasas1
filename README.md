@@ -3,6 +3,10 @@
 
 #
 
+<p align="center">
+  <img src="./banner.svg" alt="Tech Galaxy" width="800">
+</p>
+
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Conecte-se comigo!</h3>
