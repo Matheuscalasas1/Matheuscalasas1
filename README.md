@@ -28,8 +28,7 @@
 </div>
 
  #
- 
-<br>
+
 <h3>Github Stats ~</h3>
 <!-- STATS CARD -->
 <div align="center">
