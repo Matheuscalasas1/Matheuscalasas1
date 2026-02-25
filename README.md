@@ -2,7 +2,7 @@
 
 <h5> Desenvolvedor backend em formação, estudante de Análise e Desenvolvimento de Sistemas com foco em Java e Spring Boot. Possuo experiência com projetos práticos, utilizando conhecimentos acadêmicos. </h5>
 
-#
+
 
 <h2 align="left">Contato</h2>
 
