@@ -1,6 +1,6 @@
-# Olá, eu sou Matheus Calasas! 👋
+# Olá, eu sou Matheus Calasãs! 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas, focado em back-end com Java e Python.
+Estudante de Análise e Desenvolvimento de Sistemas, focado em back-end com Java.
 
 ## 📫 Contato
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:matheuscalasas2004@hotmail.com)
@@ -23,4 +23,4 @@ Estudante de Análise e Desenvolvimento de Sistemas, focado em back-end com Java
 </div>
 
 ## 🚀 Projetos em Destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheuscalasas1&repo=nome-do-repo&theme=tokyonight)](https://github.com/Matheuscalasas1/nome-do-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheuscalasas1&repo=nome-do-repo&theme=tokyonight)](https://github.com/Matheuscalasas1/SoftScanner-leitor)
