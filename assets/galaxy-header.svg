@@ -264,26 +264,26 @@
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="0.0s" repeatCount="indefinite"/>
     </circle>
     <line x1="394.7" y1="176.8" x2="380.1" y2="187.3" stroke="#a78bfa" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="380.1" y="190.3" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">TypeScript</text>
-    <text x="380.1" y="190.3" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.85">TypeScript</text>
+    <text x="380.1" y="190.3" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">JavaScript</text>
+    <text x="380.1" y="190.3" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.85">JavaScript</text>
     <circle cx="284.2" cy="166.5" r="2.5" fill="#a78bfa" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="0.7s" repeatCount="indefinite"/>
     </circle>
     <line x1="284.2" y1="166.5" x2="266.2" y2="167.9" stroke="#a78bfa" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="266.2" y="170.9" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">React</text>
-    <text x="266.2" y="170.9" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.85">React</text>
+    <text x="266.2" y="170.9" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">HTML</text>
+    <text x="266.2" y="170.9" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.85">HTML</text>
     <circle cx="257.1" cy="125.3" r="2.5" fill="#a78bfa" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="1.4s" repeatCount="indefinite"/>
     </circle>
     <line x1="257.1" y1="125.3" x2="239.3" y2="122.2" stroke="#a78bfa" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="239.3" y="125.2" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Flask</text>
-    <text x="239.3" y="125.2" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.85">Flask</text>
+    <text x="239.3" y="125.2" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">CSS</text>
+    <text x="239.3" y="125.2" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.85">CSS</text>
     <circle cx="414.4" cy="88.8" r="2.5" fill="#a78bfa" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="2.0999999999999996s" repeatCount="indefinite"/>
     </circle>
     <line x1="414.4" y1="88.8" x2="411.6" y2="71.0" stroke="#a78bfa" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="411.6" y="74.0" text-anchor="middle" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">AWS / Oracle</text>
-    <text x="411.6" y="74.0" text-anchor="middle" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.85">AWS / Oracle</text>
+    <text x="411.6" y="74.0" text-anchor="middle" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Railway</text>
+    <text x="411.6" y="74.0" text-anchor="middle" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.85">Railway</text>
     <circle cx="372.0" cy="136.2" r="2.5" fill="#00d4ff" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="0.0s" repeatCount="indefinite"/>
     </circle>
@@ -312,14 +312,14 @@
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="0.7s" repeatCount="indefinite"/>
     </circle>
     <line x1="521.5" y1="187.1" x2="538.6" y2="192.8" stroke="#ffb020" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="538.6" y="195.8" text-anchor="start" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Linux</text>
-    <text x="538.6" y="195.8" text-anchor="start" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.85">Linux</text>
+    <text x="538.6" y="195.8" text-anchor="start" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Java</text>
+    <text x="538.6" y="195.8" text-anchor="start" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.85">Java</text>
     <circle cx="325.1" cy="206.8" r="2.5" fill="#ffb020" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="1.4s" repeatCount="indefinite"/>
     </circle>
     <line x1="325.1" y1="206.8" x2="309.1" y2="215.1" stroke="#ffb020" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="309.1" y="218.1" text-anchor="end" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Docker</text>
-    <text x="309.1" y="218.1" text-anchor="end" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.85">Docker</text>
+    <text x="309.1" y="218.1" text-anchor="end" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Spring Boot</text>
+    <text x="309.1" y="218.1" text-anchor="end" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.85">Spring Boot</text>
 
   <!-- 9. Project stars -->
     <circle cx="464.1" cy="86.5" r="4" fill="#a78bfa" filter="url(#star-glow-0)">
@@ -354,7 +354,7 @@
     <text x="425" y="160" text-anchor="middle" fill="#00d4ff" font-size="14" font-weight="bold" font-family="monospace">V</text>
 
   <!-- 12. Profile text -->
-  <text x="425" y="26" text-anchor="middle" fill="#f1f5f9" font-size="20" font-weight="bold" font-family="sans-serif">Vinícius Melo</text>
-  <text x="425" y="44" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">AI Engineer</text>
-  <text x="425" y="268" text-anchor="middle" fill="#64748b" font-size="11" font-family="monospace" font-style="italic">Solving one problem at a time, with code and creativity.</text>
+  <text x="425" y="26" text-anchor="middle" fill="#f1f5f9" font-size="20" font-weight="bold" font-family="sans-serif">Matheus Calasãs</text>
+  <text x="425" y="44" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">Estudante de ADS - Engenheiro de software</text>
+  <text x="425" y="268" text-anchor="middle" fill="#64748b" font-size="11" font-family="monospace" font-style="italic">Explorando o universo do back-end, um commit por vez.</text>
 </svg>
