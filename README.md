@@ -33,19 +33,19 @@
 ## 🚀 **Meu Universo de Código**
 
 <div align="center">
-  <img src="./assets/galaxy-header.svg" width="100%" alt="Galaxy Header">
+  <img src="https://raw.githubusercontent.com/Matheuscalasas1/Matheuscalasas1/main/assets/galaxy-header.svg" width="100%" alt="Galaxy Header">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="./assets/stats-card.svg" width="100%" alt="Stats Card">
+  <img src="https://raw.githubusercontent.com/Matheuscalasas1/Matheuscalasas1/main/assets/stats-card.svg" width="100%" alt="Stats Card">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="./assets/tech-stack.svg" width="100%" alt="Tech Stack">
+  <img src="https://raw.githubusercontent.com/Matheuscalasas1/Matheuscalasas1/main/assets/tech-stack.svg" width="100%" alt="Tech Stack">
 </div>
 
 #
