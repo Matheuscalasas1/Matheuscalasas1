@@ -73,6 +73,53 @@
         20% { opacity: 0; transform: translate(var(--shoot-tx), var(--shoot-ty)); }
         100% { opacity: 0; }
       }
+   
+
+   <svg xmlns="http://www.w3.org/2000/svg" width="850" height="280" viewBox="0 0 850 280">
+  <defs>
+    <style>
+      .star-bg {
+        animation: twinkle-slow 7s ease-in-out infinite;
+      }
+      .star-mid {
+        animation: twinkle-mid 5s ease-in-out infinite;
+      }
+      .star-fg {
+        animation: twinkle-fast 3s ease-in-out infinite;
+      }
+      @keyframes twinkle-slow {
+        0%, 100% { opacity: 0.08; }
+        50% { opacity: 0.3; }
+      }
+      @keyframes twinkle-mid {
+        0%, 100% { opacity: 0.15; }
+        50% { opacity: 0.5; }
+      }
+      @keyframes twinkle-fast {
+        0%, 100% { opacity: 0.4; }
+        50% { opacity: 0.8; }
+      }
+      .core-ring {
+        animation: pulse-core 3s ease-in-out infinite;
+      }
+      .core-ring-inner {
+        animation: pulse-core 3s ease-in-out infinite 1.5s;
+      }
+      @keyframes pulse-core {
+        0%, 100% { stroke-opacity: 0.3; transform: scale(1); transform-origin: 425px 155px; }
+        50% { stroke-opacity: 0.8; transform: scale(1.06); transform-origin: 425px 155px; }
+      }
+      .shooting-star {
+        opacity: 0;
+        animation: shoot linear infinite;
+      }
+      @keyframes shoot {
+        0% { opacity: 0; transform: translate(0, 0); }
+        5% { opacity: 0.9; }
+        15% { opacity: 0.6; transform: translate(var(--shoot-tx), var(--shoot-ty)); }
+        20% { opacity: 0; transform: translate(var(--shoot-tx), var(--shoot-ty)); }
+        100% { opacity: 0; }
+      }
     </style>
 
     <filter id="nebula-outer">
@@ -388,7 +435,6 @@
   <text x="425" y="44" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">AI Engineer</text>
   <text x="425" y="268" text-anchor="middle" fill="#64748b" font-size="11" font-family="monospace" font-style="italic">Solving one problem at a time, with code and creativity.</text>
 </svg>
-
 
 #
 
