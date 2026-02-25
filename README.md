@@ -30,7 +30,7 @@
  #
  
 <br>
-
+<h3>Github Stats ~</h3>
 <!-- STATS CARD -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Matheuscalasas1/Matheuscalasas1/main/assets/stats-card.svg" width="100%" alt="Stats Card">
