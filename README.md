@@ -51,16 +51,6 @@
   <img src="https://raw.githubusercontent.com/Matheuscalasas1/Matheuscalasas1/main/assets/tech-stack.svg" width="100%" alt="Tech Stack">
 </div>
 
-#
-
-<div style="text-align: center;" align="center">
-<h3>* GitHub Stats *</h3>
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscalasas1&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api?username=Matheuscalasas1&theme=shadow_red&show_icons=true">
-
-</div>
 
 #
 
