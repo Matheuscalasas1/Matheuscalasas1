@@ -17,7 +17,7 @@
 <h3 align="left">Minha Stack ~</h3>
 
 
-<div align="center">
+<div align="left">
   
 | | | |
 |---|---|---|
