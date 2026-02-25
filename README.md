@@ -2,7 +2,7 @@
 <h5> Estudante de Análise e Desenvolvimento de Sistemas, minhas principais experiências são com HTML, CSS e Java, possuo bastante curiosidade e pretendo me aprofundar no back-end. Busco sempre estudar e estar atualizado na área da tecnologia, gosto de aprender cada vez mais para, além de ampliar meus conhecimentos, poder compartilhá-los para a construção de projetos e soluções inovadoras! </h5>
 
 
-
+#
 
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
