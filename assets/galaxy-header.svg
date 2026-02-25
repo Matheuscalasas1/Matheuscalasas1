@@ -351,7 +351,7 @@
     <!-- Bright center dot -->
     <circle cx="425" cy="155" r="3" fill="#00d4ff" filter="url(#core-bright-glow)" opacity="0.9"/>
     <!-- Initial -->
-    <text x="425" y="160" text-anchor="middle" fill="#00d4ff" font-size="14" font-weight="bold" font-family="monospace">V</text>
+    <text x="425" y="160" text-anchor="middle" fill="#00d4ff" font-size="14" font-weight="bold" font-family="monospace">M</text>
 
   <!-- 12. Profile text -->
   <text x="425" y="26" text-anchor="middle" fill="#f1f5f9" font-size="20" font-weight="bold" font-family="sans-serif">Matheus Calasãs</text>
