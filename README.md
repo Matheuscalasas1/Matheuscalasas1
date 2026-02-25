@@ -33,7 +33,7 @@
 ## 🚀 **Meu Universo de Código**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Matheuscalasas1/Matheuscalasas1/main/assets/galaxy-header.svg" width="100%" alt="Galaxy Header">
+  <img src="https://raw.githubusercontent.com/Matheuscalasas1/Matheuscalasas1/main/assets/galaxy-header.svg" width="100%">
 </div>
 
 <br>
