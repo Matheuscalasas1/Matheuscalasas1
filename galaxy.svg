@@ -1,0 +1,66 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          background: #0d1117;
+          width: 800px;
+          height: 400px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          font-family: sans-serif;
+          color: white;
+          position: relative;
+          overflow: hidden;
+        }
+        .orbit {
+          position: absolute;
+          border: 1px solid rgba(255, 255, 255, 0.08);
+          border-radius: 50%;
+          transform: rotateX(75deg);
+        }
+        .node {
+          position: absolute;
+          padding: 6px 12px;
+          background: rgba(0, 0, 0, 0.7);
+          border: 1px solid;
+          border-radius: 20px;
+          font-size: 13px;
+          font-weight: bold;
+          animation: float 3s infinite ease-in-out;
+        }
+        @keyframes float {
+          0%, 100% { transform: translateY(0); }
+          50% { transform: translateY(-8px); }
+        }
+        .center {
+          z-index: 10;
+          text-align: center;
+          animation: pulse 2s infinite alternate;
+        }
+        @keyframes pulse {
+          from { filter: drop-shadow(0 0 10px #FF00F6); }
+          to { filter: drop-shadow(0 0 25px #FF00F6); }
+        }
+      </style>
+      <div class="container">
+        <div class="orbit" style="width: 450px; height: 450px;"></div>
+        <div class="orbit" style="width: 650px; height: 650px;"></div>
+
+        <div class="center">
+          <h1 style="margin:0; font-size: 32px; color: #FF00F6;">Matheus Calasas</h1>
+          <p style="margin:5px 0; color: #8b949e;">Future Back-end Developer</p>
+        </div>
+
+        <div class="node" style="top: 120px; left: 150px; color: #f7df1e; animation-delay: 0s;">JavaScript</div>
+        <div class="node" style="top: 80px; left: 520px; color: #007396; animation-delay: 1s;">Java</div>
+        <div class="node" style="top: 280px; left: 200px; color: #e34c26; animation-delay: 0.5s;">HTML5</div>
+        <div class="node" style="top: 310px; left: 500px; color: #3776ab; animation-delay: 1.5s;">Python</div>
+        <div class="node" style="top: 180px; left: 620px; color: #264de4; animation-delay: 0.8s;">CSS3</div>
+        <div class="node" style="top: 220px; left: 50px; color: #A8B9CC; animation-delay: 1.2s;">C Language</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
