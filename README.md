@@ -48,16 +48,7 @@
 
 #
 
-<div style="text-align: center;" align="center">
-<h3>* GitHub Stats *</h3>
-<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscalasas1&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api?username=Matheuscalasas1&theme=shadow_red&show_icons=true">
-
-</div>
-
-#
 
 <picture align="center">
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
