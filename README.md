@@ -33,19 +33,19 @@
 ## 🚀 **Meu Universo de Código**
 
 <div align="center">
-  <img src="./galaxy-header.svg" width="100%" alt="Galaxy Header">
+  <img src="./assets/galaxy-header.svg" width="100%" alt="Galaxy Header">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="./stats-card.svg" width="100%" alt="Stats Card">
+  <img src="./assets/stats-card.svg" width="100%" alt="Stats Card">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="./tech-stack.svg" width="100%" alt="Tech Stack">
+  <img src="./assets/tech-stack.svg" width="100%" alt="Tech Stack">
 </div>
 
 #
@@ -54,7 +54,6 @@
 <h3>* GitHub Stats *</h3>
 <br>
 
-<!-- Mantendo seus stats originais também, mas agora com os cards novos acima -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscalasas1&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api?username=Matheuscalasas1&theme=shadow_red&show_icons=true">
 
