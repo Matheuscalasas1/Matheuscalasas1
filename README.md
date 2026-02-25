@@ -4,7 +4,7 @@
 
 #
 
-<h3>Contato ~</h3>
+<h3 style="color: #0ef">Contato ~</h3>
 
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:matheuscalasas2004@hotmail.com)
@@ -14,7 +14,7 @@
 
 #
 
-<h3 color=#33CCFF align="left">Minha Stack ~</h3>
+<h3 style="color: #0ef">Minha Stack ~</h3>
 
 
 <p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=2D2D2D" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=2D2D2D" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2D2D2D" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2D2D2D" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=2D2D2D" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=2D2D2D" /> </p>
@@ -29,7 +29,7 @@
 
  #
 
-<h3>Github Stats ~</h3>
+<h3 style="color: #0ef">Github Stats ~</h3>
 <!-- STATS CARD -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Matheuscalasas1/Matheuscalasas1/main/assets/stats-card.svg" width="100%" alt="Stats Card">
