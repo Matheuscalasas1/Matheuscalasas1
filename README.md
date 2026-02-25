@@ -28,9 +28,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="35" alt="Java logo" />
 </div>
 
-#
 
-## 🚀 **Meu Universo de Código**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Matheuscalasas1/Matheuscalasas1/main/assets/galaxy-header.svg" width="100%">
