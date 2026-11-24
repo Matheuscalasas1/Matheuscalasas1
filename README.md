@@ -24,7 +24,7 @@ const matheus = {
 <img src="./assets/sec-contato.png" width="100%" alt="Contato">
 
 <a href="mailto:matheuscalasas2004@hotmail.com"><img src="https://img.shields.io/badge/E--mail-14121c?style=for-the-badge&logo=microsoft-outlook&logoColor=A3FF3C" alt="E-mail"></a>
-<a href="https://www.linkedin.com/in/matheuscalasas1"><img src="https://img.shields.io/badge/LinkedIn-14121c?style=for-the-badge&logo=linkedin&logoColor=A3FF3C" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/matheuscalasas/"><img src="https://img.shields.io/badge/LinkedIn-14121c?style=for-the-badge&logo=linkedin&logoColor=A3FF3C" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/mthx.calasas/"><img src="https://img.shields.io/badge/Instagram-14121c?style=for-the-badge&logo=instagram&logoColor=A3FF3C" alt="Instagram"></a>
 <a href="https://www.instagram.com/math._dev/"><img src="https://img.shields.io/badge/@Math._dev-A3FF3C?style=for-the-badge&logo=instagram&logoColor=14121c" alt="@Math._dev"></a>
 
