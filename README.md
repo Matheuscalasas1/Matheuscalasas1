@@ -4,6 +4,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1200&color=A3FF3C&center=true&vCenter=true&width=620&lines=%3E+Ol%C3%A1%2C+me+chamo+Matheus!;%3E+Estagi%C3%A1rio+full-stack+na+Athom8;%3E+Ensinando+l%C3%B3gica+no+%40Math._dev" alt="Olá, me chamo Matheus!"></a>
 
+<img src="https://komarev.com/ghpvc/?username=Matheuscalasas1&label=visitas&color=8B5CF6&style=for-the-badge" alt="Visitas ao perfil">
+
 <br><br>
 <img src="./assets/sec-sobre.png" width="100%" alt="Sobre mim">
 
@@ -31,12 +33,23 @@ const matheus = {
 <br><br>
 <img src="./assets/sec-stack.png" width="100%" alt="Minha stack">
 
+<sub><b>BACK-END</b></sub><br>
 <img src="https://img.shields.io/badge/Java-14121c?style=for-the-badge&logo=openjdk&logoColor=8B5CF6" alt="Java">
 <img src="https://img.shields.io/badge/Spring_Boot-14121c?style=for-the-badge&logo=springboot&logoColor=8B5CF6" alt="Spring Boot">
 <img src="https://img.shields.io/badge/Python-14121c?style=for-the-badge&logo=python&logoColor=8B5CF6" alt="Python">
-<img src="https://img.shields.io/badge/MySQL-14121c?style=for-the-badge&logo=mysql&logoColor=8B5CF6" alt="MySQL">
+<img src="https://img.shields.io/badge/C%23-14121c?style=for-the-badge&logo=dotnet&logoColor=8B5CF6" alt="C#">
+
+<sub><b>FRONT-END</b></sub><br>
+<img src="https://img.shields.io/badge/TypeScript-14121c?style=for-the-badge&logo=typescript&logoColor=8B5CF6" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-14121c?style=for-the-badge&logo=javascript&logoColor=8B5CF6" alt="JavaScript">
 <img src="https://img.shields.io/badge/HTML5-14121c?style=for-the-badge&logo=html5&logoColor=8B5CF6" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-14121c?style=for-the-badge&logo=css&logoColor=8B5CF6" alt="CSS3">
+
+<sub><b>DADOS &amp; FERRAMENTAS</b></sub><br>
+<img src="https://img.shields.io/badge/MySQL-14121c?style=for-the-badge&logo=mysql&logoColor=8B5CF6" alt="MySQL">
+<img src="https://img.shields.io/badge/Git-14121c?style=for-the-badge&logo=git&logoColor=8B5CF6" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-14121c?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub">
+<img src="https://img.shields.io/badge/Vercel-14121c?style=for-the-badge&logo=vercel&logoColor=8B5CF6" alt="Vercel">
 
 <br><br>
 <img src="./assets/sec-projetos.png" width="100%" alt="Projetos em destaque">
@@ -45,6 +58,12 @@ const matheus = {
 <a href="https://github.com/Matheuscalasas1/AcadSystem"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Matheuscalasas1&repo=AcadSystem&bg_color=14121c&title_color=A3FF3C&text_color=efeef5&icon_color=8B5CF6&border_color=2b2540&border_radius=10" alt="AcadSystem"></a>
 <a href="https://github.com/Matheuscalasas1/Projeto-Carfix"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Matheuscalasas1&repo=Projeto-Carfix&bg_color=14121c&title_color=A3FF3C&text_color=efeef5&icon_color=8B5CF6&border_color=2b2540&border_radius=10" alt="Projeto-Carfix"></a>
 <a href="https://github.com/Matheuscalasas1/SoftScanner-leitor"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Matheuscalasas1&repo=SoftScanner-leitor&bg_color=14121c&title_color=A3FF3C&text_color=efeef5&icon_color=8B5CF6&border_color=2b2540&border_radius=10" alt="SoftScanner-leitor"></a>
+
+<br><br>
+<img src="./assets/sec-conteudo.png" width="100%" alt="Conteúdo no @Math._dev">
+
+<sub>Carrosséis de lógica de programação, do zero, toda semana.</sub><br><br>
+<a href="https://www.instagram.com/math._dev/"><img src="./assets/posts.png" width="100%" alt="Posts do @Math._dev"></a>
 
 <br><br>
 <img src="./assets/sec-stats.png" width="100%" alt="GitHub stats">
