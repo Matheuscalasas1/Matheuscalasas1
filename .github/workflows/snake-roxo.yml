@@ -6,6 +6,9 @@ on:
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/snake-roxo.yml"]
 
 permissions:
   contents: write
