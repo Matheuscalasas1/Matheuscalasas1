@@ -37,7 +37,6 @@ const matheus = {
 <img src="https://img.shields.io/badge/Java-14121c?style=for-the-badge&logo=openjdk&logoColor=8B5CF6" alt="Java">
 <img src="https://img.shields.io/badge/Spring_Boot-14121c?style=for-the-badge&logo=springboot&logoColor=8B5CF6" alt="Spring Boot">
 <img src="https://img.shields.io/badge/Python-14121c?style=for-the-badge&logo=python&logoColor=8B5CF6" alt="Python">
-<img src="https://img.shields.io/badge/C%23-14121c?style=for-the-badge&logo=dotnet&logoColor=8B5CF6" alt="C#">
 
 <sub><b>FRONT-END</b></sub><br>
 <img src="https://img.shields.io/badge/TypeScript-14121c?style=for-the-badge&logo=typescript&logoColor=8B5CF6" alt="TypeScript">
@@ -49,7 +48,8 @@ const matheus = {
 <img src="https://img.shields.io/badge/MySQL-14121c?style=for-the-badge&logo=mysql&logoColor=8B5CF6" alt="MySQL">
 <img src="https://img.shields.io/badge/Git-14121c?style=for-the-badge&logo=git&logoColor=8B5CF6" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-14121c?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub">
-<img src="https://img.shields.io/badge/Vercel-14121c?style=for-the-badge&logo=vercel&logoColor=8B5CF6" alt="Vercel">
+<img src="https://img.shields.io/badge/Supabase-14121c?style=for-the-badge&logo=supabase&logoColor=8B5CF6" alt="Supabase">
+<img src="https://img.shields.io/badge/Railway-14121c?style=for-the-badge&logo=railway&logoColor=8B5CF6" alt="Railway">
 
 <br><br>
 <img src="./assets/sec-projetos.png" width="100%" alt="Projetos em destaque">
