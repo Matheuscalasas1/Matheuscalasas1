@@ -4,7 +4,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1200&color=A3FF3C&center=true&vCenter=true&width=620&lines=%3E+Ol%C3%A1%2C+me+chamo+Matheus!;%3E+Estagi%C3%A1rio+full-stack+na+Athom8;%3E+Ensinando+l%C3%B3gica+no+%40Math._dev" alt="Olá, me chamo Matheus!"></a>
 
-<img src="https://komarev.com/ghpvc/?username=Matheuscalasas1&label=visitas&color=8B5CF6&style=for-the-badge" alt="Visitas ao perfil">
 
 <br><br>
 <img src="./assets/sec-sobre.png" width="100%" alt="Sobre mim">
@@ -83,6 +82,6 @@ const matheus = {
 
 <br><br>
 
-<code>if (gostouDoPerfil) { seguir("@Matheuscalasas1"); deixarUmaEstrela(); } // ⭐</code>
+<img src="./assets/terminal.png" width="90%" alt="if (gostouDoPerfil) { seguir(&quot;@Matheuscalasas1&quot;); deixarUmaEstrela(); }">
 
 </div>
