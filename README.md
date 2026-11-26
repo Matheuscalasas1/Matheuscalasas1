@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.png" width="100%" alt="Banner de Matheus Calasãs · Estagiário em desenvolvimento full-stack na Athom8 · @Math._dev">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1200&color=A3FF3C&center=true&vCenter=true&width=620&lines=%3E+Ol%C3%A1%2C+me+chamo+Matheus!;%3E+Estagi%C3%A1rio+full-stack+na+Athom8;%3E+Ensinando+o+que+sei+no+%40Math._dev" alt="Olá, me chamo Matheus!"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1200&color=A3FF3C&center=true&vCenter=true&width=620&lines=%3E+Ol%C3%A1%2C+me+chamo+Matheus!;%3E+Especializando+em+Java+%2B+Spring+Boot;%3E+Python+%2B+Django+no+dia+a+dia+na+Athom8;%3E+Ensinando+o+que+sei+no+%40Math._dev" alt="Olá, me chamo Matheus!"></a>
 
 
 <br><br>
@@ -14,7 +14,9 @@
 const matheus = {
   papel:    "Estagiário em desenvolvimento full-stack",
   curso:    "Análise e Desenvolvimento de Sistemas",
-  stack:     ["Java", "Spring boot", "Python", "Django", "Typescript", "React Native", "APIs REST", "Banco de dados"],
+  foco:     ["Java", "Spring Boot", "APIs REST"],          // minha especialização
+  trabalho: ["Python", "Django"],                         // o que uso no dia a dia na Athom8
+  tambem:   ["TypeScript", "React Native", "Banco de dados"],
   agora:    "Construindo projetos práticos com o que aprendo na faculdade",
   conteudo: "Criei o perfil no Instagram @Math._dev para ensinar o que sei.",
 };
@@ -32,10 +34,13 @@ const matheus = {
 <br><br>
 <img src="./assets/sec-stack.png" width="100%" alt="Minha stack">
 
-<sub><b>BACK-END</b></sub><br>
-<img src="https://img.shields.io/badge/Java-14121c?style=for-the-badge&logo=openjdk&logoColor=8B5CF6" alt="Java">
-<img src="https://img.shields.io/badge/Spring_Boot-14121c?style=for-the-badge&logo=springboot&logoColor=8B5CF6" alt="Spring Boot">
+<sub><b>FOCO · JAVA</b></sub><br>
+<img src="https://img.shields.io/badge/Java-A3FF3C?style=for-the-badge&logo=openjdk&logoColor=14121c" alt="Java">
+<img src="https://img.shields.io/badge/Spring_Boot-A3FF3C?style=for-the-badge&logo=springboot&logoColor=14121c" alt="Spring Boot">
+
+<sub><b>NO TRABALHO · PYTHON</b></sub><br>
 <img src="https://img.shields.io/badge/Python-14121c?style=for-the-badge&logo=python&logoColor=8B5CF6" alt="Python">
+<img src="https://img.shields.io/badge/Django-14121c?style=for-the-badge&logo=django&logoColor=8B5CF6" alt="Django">
 
 <sub><b>FRONT-END</b></sub><br>
 <img src="https://img.shields.io/badge/TypeScript-14121c?style=for-the-badge&logo=typescript&logoColor=8B5CF6" alt="TypeScript">
@@ -53,10 +58,10 @@ const matheus = {
 <br><br>
 <img src="./assets/sec-projetos.png" width="100%" alt="Projetos em destaque">
 
-<a href="https://github.com/Matheuscalasas1/BarberGo"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Matheuscalasas1&repo=BarberGo&bg_color=14121c&title_color=A3FF3C&text_color=efeef5&icon_color=8B5CF6&border_color=2b2540&border_radius=10" alt="BarberGo"></a>
 <a href="https://github.com/Matheuscalasas1/AcadSystem"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Matheuscalasas1&repo=AcadSystem&bg_color=14121c&title_color=A3FF3C&text_color=efeef5&icon_color=8B5CF6&border_color=2b2540&border_radius=10" alt="AcadSystem"></a>
-<a href="https://github.com/Matheuscalasas1/Projeto-Carfix"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Matheuscalasas1&repo=Projeto-Carfix&bg_color=14121c&title_color=A3FF3C&text_color=efeef5&icon_color=8B5CF6&border_color=2b2540&border_radius=10" alt="Projeto-Carfix"></a>
 <a href="https://github.com/Matheuscalasas1/SoftScanner-leitor"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Matheuscalasas1&repo=SoftScanner-leitor&bg_color=14121c&title_color=A3FF3C&text_color=efeef5&icon_color=8B5CF6&border_color=2b2540&border_radius=10" alt="SoftScanner-leitor"></a>
+<a href="https://github.com/Matheuscalasas1/BarberGo"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Matheuscalasas1&repo=BarberGo&bg_color=14121c&title_color=A3FF3C&text_color=efeef5&icon_color=8B5CF6&border_color=2b2540&border_radius=10" alt="BarberGo"></a>
+<a href="https://github.com/Matheuscalasas1/Projeto-Carfix"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Matheuscalasas1&repo=Projeto-Carfix&bg_color=14121c&title_color=A3FF3C&text_color=efeef5&icon_color=8B5CF6&border_color=2b2540&border_radius=10" alt="Projeto-Carfix"></a>
 
 <br><br>
 <img src="./assets/sec-conteudo.png" width="100%" alt="Conteúdo no @Math._dev">
