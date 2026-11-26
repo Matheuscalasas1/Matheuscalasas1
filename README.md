@@ -12,13 +12,11 @@
 
 ```js
 const matheus = {
-  cargo:         "Estagiário de Desenvolvimento Full-Stack @ Athom8",
-  formacao:      "Análise e Desenvolvimento de Sistemas",
-  especialidade: ["Java", "Spring Boot", "APIs REST"],
-  atuacao:       ["Python", "Django"],              // stack em produção na Athom8
-  complementar:  ["TypeScript", "React Native", "SQL"],
-  objetivo:      "Desenvolver back-ends robustos, escaláveis e bem testados",
-  compartilho:   "Conteúdo técnico sobre programação no @Math._dev",
+  papel:    "Estagiário em desenvolvimento full-stack",
+  curso:    "Análise e Desenvolvimento de Sistemas",
+  stack:     ["Java", "Spring boot", "Python", "Django", "Typescript", "React Native", "APIs REST", "Banco de dados"],
+  agora:    "Construindo projetos práticos com o que aprendo na faculdade",
+  conteudo: "Criei o perfil no Instagram @Math._dev para ensinar o que sei.",
 };
 ```
 
