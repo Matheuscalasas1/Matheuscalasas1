@@ -62,7 +62,7 @@ const matheus = {
 <tr><th>Projeto</th><th>Descrição</th><th>Tecnologias</th></tr>
 <tr>
 <td><a href="https://github.com/Matheuscalasas1/AcadSystem"><b>AcadSystem</b></a></td>
-<td>Sistema de gestão acadêmica: alunos, coordenadores e relatórios · <a href="https://acad-system.vercel.app">demo</a></td>
+<td>Sistema de gestão acadêmica: alunos, coordenadores e relatórios</td>
 <td>Java · Spring Boot · Spring Security · MySQL</td>
 </tr>
 <tr>
