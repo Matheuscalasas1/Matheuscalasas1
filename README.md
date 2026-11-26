@@ -89,7 +89,7 @@ const matheus = {
 <a href="https://www.instagram.com/math._dev/"><img src="./assets/posts.png" width="100%" alt="Posts do @Math._dev"></a>
 
 <br><br>
-<img src="./assets/sec-stats.png" width="100%" alt="GitHub stats">
+<img src="./assets/sec-contribuicoes.svg" width="100%" alt="Contribuições">
 
 <img width="98%" src="https://streak-stats.demolab.com?user=Matheuscalasas1&background=14121c&border=2b2540&ring=8B5CF6&fire=A3FF3C&currStreakNum=efeef5&sideNums=efeef5&currStreakLabel=A3FF3C&sideLabels=A3FF3C&dates=a19cb3&stroke=2b2540&border_radius=10" alt="Sequência de contribuições">
 
