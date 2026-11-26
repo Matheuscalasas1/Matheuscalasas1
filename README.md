@@ -47,7 +47,9 @@ const matheus = {
 <img src="https://img.shields.io/badge/CSS3-14121c?style=for-the-badge&logo=css&logoColor=8B5CF6" alt="CSS3">
 
 <sub><b>DADOS &amp; FERRAMENTAS</b></sub><br>
+<img src="https://img.shields.io/badge/PostgreSQL-14121c?style=for-the-badge&logo=postgresql&logoColor=8B5CF6" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/MySQL-14121c?style=for-the-badge&logo=mysql&logoColor=8B5CF6" alt="MySQL">
+<img src="https://img.shields.io/badge/Docker-14121c?style=for-the-badge&logo=docker&logoColor=8B5CF6" alt="Docker">
 <img src="https://img.shields.io/badge/Git-14121c?style=for-the-badge&logo=git&logoColor=8B5CF6" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-14121c?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub">
 <img src="https://img.shields.io/badge/Supabase-14121c?style=for-the-badge&logo=supabase&logoColor=8B5CF6" alt="Supabase">
@@ -56,22 +58,38 @@ const matheus = {
 <br><br>
 <img src="./assets/sec-projetos.png" width="100%" alt="Projetos em destaque">
 
-<a href="https://github.com/Matheuscalasas1/AcadSystem"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Matheuscalasas1&repo=AcadSystem&bg_color=14121c&title_color=A3FF3C&text_color=efeef5&icon_color=8B5CF6&border_color=2b2540&border_radius=10" alt="AcadSystem"></a>
-<a href="https://github.com/Matheuscalasas1/SoftScanner-leitor"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Matheuscalasas1&repo=SoftScanner-leitor&bg_color=14121c&title_color=A3FF3C&text_color=efeef5&icon_color=8B5CF6&border_color=2b2540&border_radius=10" alt="SoftScanner-leitor"></a>
-<a href="https://github.com/Matheuscalasas1/BarberGo"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Matheuscalasas1&repo=BarberGo&bg_color=14121c&title_color=A3FF3C&text_color=efeef5&icon_color=8B5CF6&border_color=2b2540&border_radius=10" alt="BarberGo"></a>
-<a href="https://github.com/Matheuscalasas1/Projeto-Carfix"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Matheuscalasas1&repo=Projeto-Carfix&bg_color=14121c&title_color=A3FF3C&text_color=efeef5&icon_color=8B5CF6&border_color=2b2540&border_radius=10" alt="Projeto-Carfix"></a>
+<table>
+<tr><th>Projeto</th><th>Descrição</th><th>Tecnologias</th></tr>
+<tr>
+<td><a href="https://github.com/Matheuscalasas1/AcadSystem"><b>AcadSystem</b></a></td>
+<td>Sistema de gestão acadêmica: alunos, coordenadores e relatórios · <a href="https://acad-system.vercel.app">demo</a></td>
+<td>Java · Spring Boot · Spring Security · MySQL</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Matheuscalasas1/SoftScanner-leitor"><b>SoftScanner-leitor</b></a></td>
+<td>Leitura de serial de rádios por código de barras, com histórico e exportação para Excel</td>
+<td>Java · HTML · CSS</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Matheuscalasas1/BarberGo"><b>BarberGo</b></a></td>
+<td>App mobile de barbearia</td>
+<td>React Native · Expo · TypeScript · Supabase</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Matheuscalasas1/Projeto-Carfix"><b>Projeto-Carfix</b></a></td>
+<td>Site que aproxima mecânicos e clientes</td>
+<td>Python · Flask · JavaScript</td>
+</tr>
+</table>
 
 <br><br>
 <img src="./assets/sec-conteudo.png" width="100%" alt="Conteúdo no @Math._dev">
 
-<sub>Carrosséis de lógica de programação, do zero, toda semana.</sub><br><br>
+<sub>Conteúdo sobre programação e o que aprendo no dia a dia, toda semana.</sub><br><br>
 <a href="https://www.instagram.com/math._dev/"><img src="./assets/posts.png" width="100%" alt="Posts do @Math._dev"></a>
 
 <br><br>
 <img src="./assets/sec-stats.png" width="100%" alt="GitHub stats">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Matheuscalasas1&show_icons=true&include_all_commits=true&bg_color=14121c&title_color=A3FF3C&text_color=efeef5&icon_color=8B5CF6&border_color=2b2540&border_radius=10" alt="GitHub stats">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscalasas1&layout=compact&bg_color=14121c&title_color=A3FF3C&text_color=efeef5&border_color=2b2540&border_radius=10" alt="Linguagens mais usadas">
 
 <img width="98%" src="https://streak-stats.demolab.com?user=Matheuscalasas1&background=14121c&border=2b2540&ring=8B5CF6&fire=A3FF3C&currStreakNum=efeef5&sideNums=efeef5&currStreakLabel=A3FF3C&sideLabels=A3FF3C&dates=a19cb3&stroke=2b2540&border_radius=10" alt="Sequência de contribuições">
 
