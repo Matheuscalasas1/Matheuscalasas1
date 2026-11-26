@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.png" width="100%" alt="Banner de Matheus Calasãs · Estagiário em desenvolvimento full-stack na Athom8 · @Math._dev">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1200&color=A3FF3C&center=true&vCenter=true&width=620&lines=%3E+Ol%C3%A1%2C+me+chamo+Matheus!;%3E+Estagi%C3%A1rio+full-stack+na+Athom8;%3E+Ensinando+o que sei+no+%40Math._dev" alt="Olá, me chamo Matheus!"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1200&color=A3FF3C&center=true&vCenter=true&width=620&lines=%3E+Ol%C3%A1%2C+me+chamo+Matheus!;%3E+Estagi%C3%A1rio+full-stack+na+Athom8;%3E+Ensinando+o+que+sei+no+%40Math._dev" alt="Olá, me chamo Matheus!"></a>
 
 
 <br><br>
