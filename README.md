@@ -15,6 +15,7 @@ const matheus = {
   papel:    "Estagiário em desenvolvimento full-stack",
   curso:    "Análise e Desenvolvimento de Sistemas",
   stack:     ["Java", "Spring boot", "Python", "Django", "Typescript", "React Native", "APIs REST", "Banco de dados"],
+  complementos: ["Docker", "Typescript", "PostgreSQL", "MySQL", "SQL"],
   agora:    "Construindo projetos práticos com o que aprendo na faculdade",
   conteudo: "Criei o perfil no Instagram @Math._dev para ensinar o que sei.",
 };
